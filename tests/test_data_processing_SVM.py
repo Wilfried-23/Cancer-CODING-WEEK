@@ -1,6 +1,6 @@
 # tests/test_data_processing.py
 
-from src.data_processing import load_data, preprocess_data
+from src.data_processing_SVM import load_data, preprocess_data
 
 
 def test_load_data():
